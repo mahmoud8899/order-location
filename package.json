@@ -8,7 +8,7 @@
     "supertest": "^6.1.6"
   },
   "scripts": {
-    "start": "nodemon index.js node  --trace-deprecation"
+    "start": "nodemon index.js --trace-deprecation"
   },
   "author": "",
   "license": "ISC",
